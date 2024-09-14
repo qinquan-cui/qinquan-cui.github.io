@@ -6,20 +6,20 @@ title: "Teaching"
 
 
 ## MSc Supervisor
-[**Scientific Computing Individual Research Project (PHAS0077)**](https://www.ucl.ac.uk/module-catalogue/modules/scientific-computing-individual-research-project-PHAS0077){:target="_blank" rel="noopener noreferrer"}, MSc Research Project, UCL Physics & Astronomy Department (2021 - present).</br>
--- supervise MSc students in Science and Data Intensive Computing on dissertations.</br>
+[**Scientific Computing Individual Research Project (PHAS0077)**](https://www.ucl.ac.uk/module-catalogue/modules/scientific-computing-individual-research-project-PHAS0077){:target="_blank" rel="noopener noreferrer"}, MSc Research Project, UCL Physics & Astronomy Department (2021 - present). \
+-- supervise MSc students in Science and Data Intensive Computing on dissertations. \
 -- grade master theses.
 
 
-* **Seminar Lecturer** </br>
-[**Business Research**](https://www.ucl.ac.uk/module-catalogue/modules/business-research/MSIN0100){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2022 - present).</br>
--- design and deliver seminars/lectures.</br>
+## Seminar Lecturer
+[**Business Research**](https://www.ucl.ac.uk/module-catalogue/modules/business-research/MSIN0100){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2022 - present). \
+-- design and deliver seminars/lectures. \
 -- grade master theses.
 
 
 ## Teaching Assistant and Seminar Lecturer
-[**Decision and Risk Analysis**](https://www.ucl.ac.uk/module-catalogue/modules/decision-and-risk-analysis-MSIN0159){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2023 - present).</br>
--- teach workshops/seminars.</br>
+[**Decision and Risk Analysis**](https://www.ucl.ac.uk/module-catalogue/modules/decision-and-risk-analysis-MSIN0159){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2023 - present). \
+-- teach workshops/seminars. \
 -- host office hours.
 
 
