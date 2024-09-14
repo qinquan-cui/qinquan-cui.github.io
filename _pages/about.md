@@ -13,7 +13,10 @@ Welcome! I am a third year PhD student at the [UCL School of Management](https:/
 ***
 ## Upcoming Talks
 #### 2024 INFORMS Annual Meeting, Seattle, Washington
-The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox \
-Session Title: Economics of Pharmaceutical Markets \
-Time: Monday, October 21 | 8:36 AM - 8:54 AM \
+<b>The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox</b> 
+
+Session Title: Economics of Pharmaceutical Markets 
+
+Time: Monday, October 21 | 8:36 AM - 8:54 AM 
+
 Room: Summit - 437 
