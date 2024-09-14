@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 Welcome! I am a third year PhD student at the [UCL School of Management](https://www.mgmt.ucl.ac.uk){:target="_blank" rel="noopener noreferrer"}, University College London, where I am fortunate to be advised by Professor Kenan Arifoğlu and Professor Dongyuan Zhan. My research is notably centered on understanding the intricate dynamics of information asymmetry within pharmaceutical markets and the impact of legal frameworks on ensuring the availability and affordability of medicine.
+
+***
+## Upcoming Talks
+#### 2024 INFORMS Annual Meeting, Seattle, Washington
+The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox \
+Session Title: Economics of Pharmaceutical Markets \
+Time: Monday, October 21 | 8:36 AM - 8:54 AM \
+Room: Summit - 437 
