@@ -6,11 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Rewards & Services"
+    url: /reward/
+
   - title: "Teaching"
     url: /teaching/
-
-#  - title: "Software"
-#    url: /software/
 
 #  - title: "Posts"
 #    url: /posts/
