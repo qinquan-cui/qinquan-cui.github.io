@@ -8,15 +8,14 @@ header:
 ---
 
 ## Working Papers
-The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox \
-Qinquan Cui, Kenan Arifoğlu and Dongyuan Zhan \
+Cui, Qinquan Cui, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"}\
 Submitted \
 -- Listed in SSRN's top ten downloads. 
 
-citation: "Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. Google Scholar citations: 101"
+
 
 ## Journal Papers
-
+Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. <b>Google Scholar citations: 101</b>
 
 
 <nbsp>
