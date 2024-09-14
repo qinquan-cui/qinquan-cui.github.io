@@ -1,0 +1,9 @@
+---
+title: "Quality Investment, and the Contract Manufacturer's Encroachment"
+collection: publications
+permalink: /publication/2019-ejort
+date: 2019-12-01
+venue: "European Journal of Operational Research"
+link: "https://doi.org/10.1093/isq/sqaa009"
+citation: "Cui, Qinquan. 2020. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. Google Scholar citations: 101"
+---
