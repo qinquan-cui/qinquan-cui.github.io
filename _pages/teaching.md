@@ -17,9 +17,9 @@ title: "Teaching"
 -- grade master theses.
 
 
-## Teaching Assistant and Seminar Lecturer
+## Teaching Assistant
 [**Decision and Risk Analysis**](https://www.ucl.ac.uk/module-catalogue/modules/decision-and-risk-analysis-MSIN0159){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2023 - present). \
--- teach workshops/seminars. \
+-- teach workshops. \
 -- host office hours.
 
 
