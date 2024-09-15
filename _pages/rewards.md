@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Honors and Awards
-
 * **The Sylff Research Grant**, The Tokyo Foundation for Policy Research, Japan, PI: $4,050. (2024) 
 
 * **Editors' Awards for Excellence in Reviewing**, European Journal of Operational Research. (2022)
@@ -15,7 +14,6 @@ author_profile: true
 
 
 ## Academic Services
-
 * **Editorial Review Board:**
 IEEE Transactions on Engineering Management (2024 - present)
 
