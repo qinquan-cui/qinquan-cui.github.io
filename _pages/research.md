@@ -8,7 +8,7 @@ header:
 ---
 
 ## Working Papers
-Cui, Qinquan Cui, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"}\
+Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"}\
 Submitted \
 -- Listed in SSRN's top ten downloads. \
 -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \
@@ -16,6 +16,7 @@ Submitted \
 -- INFORMS Annual Conference, Phoenix, AZ, 10/2023. \
 -- POMS Annual Conference, Orlando, FL, 05/2023.
 
+Arifoğlu, Kenan, and Qinquan Cui. 2024. &quot;An Incentive Program to Coordinate Research and Development (R&D) Effort and Capacity Investment for A New Pandemic Vaccine.&quot; 
 
 
 ## Journal Papers
