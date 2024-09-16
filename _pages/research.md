@@ -20,7 +20,8 @@ Arifoğlu, Kenan, and Qinquan Cui. 2024. &quot;An Incentive Program to Coordinat
 
 
 ## Journal Papers
-Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. <b>Google Scholar citations: 101</b>
+Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. \
+-- Google Scholar citations: 101
 
 
 <nbsp>
