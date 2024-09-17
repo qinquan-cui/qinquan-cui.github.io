@@ -8,6 +8,15 @@ header:
 ---
 
 ## Working Papers
+---
+title: ""
+collection: publications
+permalink: /publication/2019-ejor
+date: 2019-12-01
+venue: "European Journal of Operational Research"
+link: "https://doi.org/10.1016/j.ejor.2019.06.004"
+citation: "Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. <i>Google Scholar citations</i>: 101"
+---
 Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [[Download]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"}\
 <i>Submitted</i> \
 -- Listed in SSRN's top ten downloads. \
