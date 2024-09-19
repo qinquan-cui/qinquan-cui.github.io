@@ -12,7 +12,8 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 <i>Submitted</i> \
 -- Listed in SSRN's top ten downloads. \
 -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \
--- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \
+<!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
+-- MSOM Conference, Minneapolis, Minnesota, 07/2024. \
 -- INFORMS Annual Conference, Phoenix, AZ, 10/2023. \
 -- POMS Annual Conference, Orlando, FL, 05/2023.
 
