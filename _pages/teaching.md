@@ -34,7 +34,7 @@ title: "Teaching"
   <em>"Thank you so much for your guidance during the past three months; it has been a memorable experience for me. I have found you to be a very knowledgeable and approachable tutor, allowing me to discuss my problems with you without a lot of pressure. I cannot express my gratitude to you enough, but I wish you all the best for your future PhD career at UCL."</em> &mdash;Haoyu **
   </li>  
   <li style="font-size: 16px;">
-  <em>"I would like to thank my supervisor, Qinquan. I feel very fortunate to have had the opportunity to work with him and be his student. Although we only met three times, each time we met I felt like I had been given a treasure! His advice is like a guiding light, every time I ask a question, his answer is always enlightening, he helps me understand the problem I am facing at the moment in the simplest and easiest way every time, and he is really patient. Qinquan, you are truly a ‘problem solver’."</em> &mdash;Hedy **
+  <em>"I would like to thank my supervisor, Qinquan. I feel very fortunate to have had the opportunity to work with him and be his student. Each time we met I felt like I had been given a treasure! His advice is like a guiding light, every time I ask a question, his answer is always enlightening, he helps me understand the problem I am facing at the moment in the simplest and easiest way every time, and he is really patient. Qinquan, you are truly a ‘problem solver’."</em> &mdash;Hedy **
   </li>
 </ul>
 
