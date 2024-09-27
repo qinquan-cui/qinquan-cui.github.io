@@ -27,15 +27,15 @@ title: "Teaching"
 
 ## Selected Students' Comments
 <ul>
-  <li style="font-size: 16px;">
-    <em>"First and foremost, I wanted to express my sincere gratitude for all the guidance and support you provided me during my time as your student. Your commitment to teaching and passion for your subject have greatly inspired me. The knowledge and skills I acquired under your tutelage have proven invaluable in shaping my career path."</em> &mdash;Yukii **
-  </li>
-  <li style="font-size: 16px;">
-    <em>"Thank you so much for your guidance during the past three months; it has been a memorable experience for me. Through these three online meetings, I have found you to be a very knowledgeable and approachable tutor, allowing me to discuss my problems with you without a lot of pressure. I cannot express my gratitude to you enough, but I wish you all the best for your future PhD career at UCL."</em> &mdash;Haoyu **
-  </li>  
-  <li style="font-size: 16px;">
+<li style="font-size: 16px;">
+  <em>"First and foremost, I wanted to express my sincere gratitude for all the guidance and support you provided me during my time as your student. Your commitment to teaching and passion for your subject have greatly inspired me. The knowledge and skills I acquired under your tutelage have proven invaluable in shaping my career path."</em> &mdash;Yukii **
+</li>
+<li style="font-size: 16px;">
+  <em>"Thank you so much for your guidance during the past three months; it has been a memorable experience for me. Through these three online meetings, I have found you to be a very knowledgeable and approachable tutor, allowing me to discuss my problems with you without a lot of pressure. I cannot express my gratitude to you enough, but I wish you all the best for your future PhD career at UCL."</em> &mdash;Haoyu **
+</li>  
+<li style="font-size: 16px;">
     <em>"I would like to thank my supervisor, Qinquan. I feel very fortunate to have had the opportunity to work with him and be his student. Although we only met three times, each time we met I felt like I had been given a treasure! His advice is like a guiding light, every time I ask a question, his answer is always enlightening, he helps me understand the problem I am facing at the moment in the simplest and easiest way every time, and he is really patient. Qinquan, you are truly a ‘problem solver’."</em> &mdash;Hedy **
-  </li>
+</li>
 </ul>
 
 
