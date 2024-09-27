@@ -30,7 +30,7 @@ title: "Teaching"
 
 <ul>
   <li style="font-size: 18px;">
-    <em>"First and foremost, I wanted to express my sincere gratitude for all the guidance and support you provided me during my time as your student. Your commitment to teaching and passion for your subject have greatly inspired me. The knowledge and skills I acquired under your tutelage have proven invaluable in shaping my career path." &mdash Yukii</em>
+    <em>"First and foremost, I wanted to express my sincere gratitude for all the guidance and support you provided me during my time as your student. Your commitment to teaching and passion for your subject have greatly inspired me. The knowledge and skills I acquired under your tutelage have proven invaluable in shaping my career path." &mdash;Yukii</em>
   </li>
   <li style="font-size: 18px;">
     This is a normal bullet point with a larger font size.
