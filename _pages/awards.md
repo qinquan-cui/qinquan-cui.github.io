@@ -10,6 +10,8 @@ author_profile: true
 
 * **Editors' Awards for Excellence in Reviewing**, European Journal of Operational Research. (2022)
 
+* **Grant for The Becker Friedman Institute Price Theory Summer Camp**, The University of Hong Kong, HK$11,700. (2017)
+
 * **National Scholarship**, Ministry of Education of The People's Republic of China. (2017)
 
 
