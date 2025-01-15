@@ -22,7 +22,7 @@ Arifoğlu, Kenan, and Qinquan Cui. 2025. &quot;An Incentive Program to Coordinat
 
 ## Journal Papers
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
--- Google Scholar citations: 105. \
+-- Google Scholar citations: 106. \
 -- Media coverage by The Tokyo Foundation for Policy Research in November 2019.
 
 
