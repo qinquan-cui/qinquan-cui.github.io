@@ -22,8 +22,8 @@ IEEE Transactions on Engineering Management (2024 - present)
 * **Session Chair:**
 INFORMS Annual Meeting 2024, the Health Application Society Cluster, Session: Economics of Pharmaceutical Markets
 
-* **Journal Reviewer:**
-Production and Operations Management, European Journal of Operational Research, IEEE Transactions on Engineering Management
+* **Journal/Conference Reviewer:**
+Production and Operations Management, European Journal of Operational Research, IEEE Transactions on Engineering Management; INFORMS MSOM Conference
 
 
 
