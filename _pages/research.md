@@ -14,7 +14,6 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \
 <!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
 -- MSOM Conference, Minneapolis, Minnesota, 07/2024. \
--- INFORMS Annual Conference, Phoenix, AZ, 10/2023. \
 -- POMS Annual Conference, Orlando, FL, 05/2023.
 
 Arifoğlu, Kenan, and Qinquan Cui. 2025. &quot;An Incentive Program to Coordinate Research and Development (R&D) Effort and Capacity Investment for A New Pandemic Vaccine.&quot; 
