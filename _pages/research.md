@@ -19,7 +19,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 Arifoğlu, Kenan, and Qinquan Cui. 2025. &quot;An Incentive Program to Coordinate Research and Development (R&D) Effort and Capacity Investment for A New Pandemic Vaccine.&quot; 
 
 
-## Journal Papers
+## Published Papers
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
 -- Google Scholar citations: 109. \
 -- Policy Research at THE TOKYO FOUNDATION FOR POLICY RESEARCH.
