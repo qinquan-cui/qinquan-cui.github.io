@@ -9,7 +9,7 @@ header:
 
 ## Working Papers
 Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"}\
-<i>Submitted</i> \
+<i>in revision</i> \
 -- Listed in SSRN's top ten downloads. \
 -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \
 <!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
