@@ -20,7 +20,7 @@ Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency \
 
 <b>2025 EURO, Leeds, UK</b> \
 The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"} \
--- Session Title: Pharmaceuticals and manufacturers \
+-- Session: Pharmaceuticals and manufacturers \
 -- Room: Clarendon SR 1.03 \
 -- Time: Tuesday, June 24 | 02:30 PM-04:00 PM
 
