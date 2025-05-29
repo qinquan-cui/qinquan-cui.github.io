@@ -18,7 +18,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 
 Arifoğlu, Kenan, and Qinquan Cui. 2025. &quot;An Incentive Program to Coordinate Research and Development (R&D) Effort and Capacity Investment for A New Pandemic Vaccine.&quot; 
 
-Qinquan Cui. 2025. &quot;Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency.&quot; \
+Qinquan Cui. 2025. &quot;Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency.&quot; 
 <ul>
   <li>Selected for MSOM SIG iFORM presentation, London, 06/2025 </li>
 </ul>
