@@ -25,7 +25,7 @@ title: "Teaching"
 -- teach workshops. \
 -- host office hours.
 
-## Selected Students' Testimonials
+## Selected Student Testimonials
 <ul style="padding-left: 10px; list-style-position: inside;">
   <li style="font-size: 16px;">
   <em>"First and foremost, I wanted to express my sincere gratitude for all the guidance and support you provided me during my time as your student. Your commitment to teaching and passion for your subject have greatly inspired me. The knowledge and skills I acquired under your tutelage have proven invaluable in shaping my career path."</em> &mdash;Yukii **
