@@ -16,7 +16,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 -- MSOM Conference, Minneapolis, Minnesota, 07/2024. \
 -- POMS Annual Conference, Orlando, FL, 05/2023.
 
-Arifoğlu, Kenan, and Qinquan Cui. 2025. &quot;An Incentive Program to Coordinate Research and Development (R&D) Effort and Capacity Investment for A New Pandemic Vaccine.&quot; 
+Song, Lina, Qinquan Cui, and Fangwei Dong. 2025. &quot;Predicting Hospital Mergers Using Machine Learning Algorithms&quot;
 
 Cui, Qinquan. 2025. &quot;Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency.&quot; \
 -- Selected for MSOM SIG iFORM presentation, London, 06/2025 
