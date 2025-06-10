@@ -14,7 +14,7 @@ title: "Teaching"
 ## Seminar Lecturer
 [**Business Research (MSIN0100)**](https://www.ucl.ac.uk/module-catalogue/modules/business-research/MSIN0100){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2022 - present). \
 -- design and deliver seminars/lectures. \
--- grade master theses.
+-- supervise master theses.
 
 [**Business Analytics (MSIN0017)**](https://www.ucl.ac.uk/module-catalogue/modules/business-analytics-MSIN0017){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2024 - present). \
 -- design and deliver seminars. \
