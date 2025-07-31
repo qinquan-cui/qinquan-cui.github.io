@@ -26,7 +26,7 @@ Cui, Qinquan. 2025. &quot;Bank Inspections of Borrowing Suppliers: Balancing Dil
 Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;Signaling Quality to Consumers: The Role of Social Media Marketing.&quot; <i>Information Systems Research,</i> published online. 
 
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
--- Google Scholar citations: 114. \
+-- Google Scholar citations: 115. \
 -- Policy Research at THE TOKYO FOUNDATION FOR POLICY RESEARCH.
 
 
