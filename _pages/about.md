@@ -19,11 +19,6 @@ The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharma
 -- Room: Building B Level 3, B302 \
 -- Time: Sunday, October 26 | 4:15 PM-5:30 PM 
 
-<b>2025 MSOM iFORM SIG, London, UK</b> \
-Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency \
--- Room: LT4 \
--- Time: Friday, June 27 | 08:30 AM-10:00 AM
-
 
 
 
