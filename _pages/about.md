@@ -16,7 +16,7 @@ Welcome! I am a third year PhD student at the [UCL School of Management](https:/
 <b>2025 INFORMS Annual Meeting, Atlanta, Georgia</b> \
 The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox \
 -- Session: From Waiting Rooms to Pharma Markets: Algorithmic and Informational Solutions for Equitable Healthcare \
--- Room: Building B Level 3 B302 \
+-- Room: Building B Level 3, B302 \
 -- Time: Sunday, October 26 | 4:15 PM-5:30 PM 
 
 <b>2025 MSOM iFORM SIG, London, UK</b> \
