@@ -27,7 +27,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;Signaling Quality 
 
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
 -- Google Scholar citations: 118. \
--- Policy Research at THE TOKYO FOUNDATION FOR POLICY RESEARCH.
+-- Feature Article at The Tokyo Foundation For Policy Research.
 
 
 <nbsp>
