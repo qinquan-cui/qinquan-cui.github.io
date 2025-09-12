@@ -18,6 +18,7 @@ The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharma
 -- Session: From Waiting Rooms to Pharma Markets: Algorithmic and Informational Solutions for Equitable Healthcare \
 -- Room: Building B Level 3 B302 \
 -- Time: Sunday, October 26 | 4:15 PM-5:30 PM 
+
 <b>2025 MSOM iFORM SIG, London, UK</b> \
 Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency \
 -- Room: LT4 \
