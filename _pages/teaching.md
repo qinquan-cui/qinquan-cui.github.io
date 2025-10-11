@@ -8,7 +8,7 @@ title: "Teaching"
 ## MSc Supervisor
 [**Scientific Computing Individual Research Project (PHAS0077)**](https://www.ucl.ac.uk/module-catalogue/modules/scientific-computing-individual-research-project-PHAS0077){:target="_blank" rel="noopener noreferrer"}, MSc Research Project, UCL Physics & Astronomy Department (2021 - present). \
 -- supervise MSc students in Science and Data Intensive Computing on dissertations. \
--- grade master theses.
+-- advise on machine-learning methods for business analytics.
 
 
 ## Seminar Lecturer
@@ -16,7 +16,7 @@ title: "Teaching"
 -- design and deliver seminars/lectures. \
 -- supervise master theses.
 
-[**Business Analytics (MSIN0017)**](https://www.ucl.ac.uk/module-catalogue/modules/business-analytics-MSIN0017){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2024 - present). \
+[**Business Analytics (MSIN0017)**](https://www.ucl.ac.uk/module-catalogue/modules/business-analytics-MSIN0017){:target="_blank" rel="noopener noreferrer"}, BSc Information Management program, UCL School of Management (2024 - present). \
 -- design and deliver seminars. \
 -- grade assignments and exams.
 
