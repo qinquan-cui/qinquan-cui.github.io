@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth year PhD student at the [UCL School of Management](https://www.mgmt.ucl.ac.uk){:target="_blank" rel="noopener noreferrer"}, University College London. My research is notably centered on understanding the intricate dynamics of pharmaceutical markets and the impact of legal frameworks on balancing the innovation, availability, and affordability of medicine.
+Welcome! I am a fourth year PhD student at the [UCL School of Management](https://www.mgmt.ucl.ac.uk){:target="_blank" rel="noopener noreferrer"}, University College London. My research focuses on pharmaceutical markets using analytical models and large-scale empirical analysis. I study how information asymmetries and regulation shape pricing, marketing, access, and innovation, and I design policy and hospital-operations interventions that lower prices and expand access. <!--## My research is notably centered on understanding the intricate dynamics of pharmaceutical markets and the impact of legal frameworks on balancing the innovation, availability, and affordability of medicine. -->
 
 ***
 ## Upcoming Talks
