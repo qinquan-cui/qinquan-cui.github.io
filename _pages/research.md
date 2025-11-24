@@ -19,7 +19,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Inform
 <i>in major revision.</i> \
 -- Awarded The 2023 Sylff Research Grant. \
 -- Listed in SSRN's top ten downloads. \
--- INFORMS Annual Conference, Seattle, Washington, 10/2024. \
+<!-- -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \ -->
 <!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
 -- MSOM Conference, Minneapolis, Minnesota, 07/2024. 
 
