@@ -12,7 +12,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;Signaling Quality 
 -- Feature Article/Media Coverage: [INFORMS](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Social-Media-Marketing-Falls-Flat-as-a-Signal-of-Quality-New-Research-Finds){:target="_blank" rel="noopener noreferrer"}, [EurekAlert|AAAS](https://www.eurekalert.org/news-releases/1108048){:target="_blank" rel="noopener noreferrer"}  
 
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
--- Google Scholar citations: 120. \
+-- Google Scholar citations: 121. \
 -- Feature Article at The Tokyo Foundation For Policy Research.
 
 ## Working Papers
