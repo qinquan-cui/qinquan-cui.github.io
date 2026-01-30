@@ -12,11 +12,11 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;Signaling Quality 
 -- Feature Article/Media Coverage: [INFORMS](https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Social-Media-Marketing-Falls-Flat-as-a-Signal-of-Quality-New-Research-Finds){:target="_blank" rel="noopener noreferrer"}, [EurekAlert|AAAS](https://www.eurekalert.org/news-releases/1108048){:target="_blank" rel="noopener noreferrer"}, [The African Marketing Confederation](https://africanmarketingconfederation.org/higher-spending-on-social-media-marketing-may-not-help-quality-brands/){:target="_blank" rel="noopener noreferrer"}, [EduTalkToday](https://edutalktoday.com/social-studies/social-media-marketing-fails-to-signal-product-quality-new-research-reveals-why-bigger-budgets-dont-mean-better-brands/){:target="_blank" rel="noopener noreferrer"}   
 
 Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's Encroachment.&quot; <i>European Journal of Operational Research</i> 279(2): 407–418. [[Link]](https://doi.org/10.1016/j.ejor.2019.06.004){:target="_blank" rel="noopener noreferrer"} \
--- Google Scholar citations: 123. \
+-- Google Scholar citations: 124. \
 -- Feature Article at The Tokyo Foundation For Policy Research.
 
 ## Working Papers
-Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2024. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"} 
+Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"} 
 <i>in major revision.</i> \
 -- Awarded The 2023 Sylff Research Grant. \
 -- Listed in SSRN's top ten downloads. \
