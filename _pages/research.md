@@ -24,9 +24,9 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;The Role of Inform
 <!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
 -- MSOM Conference, Minneapolis, Minnesota, 07/2024. 
 
-Song, Lina, Qinquan Cui, and Fangwei Dong. 2025. &quot;Predicting Hospital Mergers Using Machine Learning Algorithms.&quot;
+Song, Lina, Qinquan Cui, and Fangwei Dong. 2026. &quot;Predicting Hospital Mergers Using Machine Learning Algorithms.&quot;
 
-Cui, Qinquan. 2025. &quot;Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency.&quot; \
+Cui, Qinquan. 2026. &quot;Bank Inspections of Borrowing Suppliers: Balancing Diligence and Efficiency.&quot; \
 -- Selected for MSOM SIG iFORM, London, 06/2025 
 
 
