@@ -20,7 +20,7 @@ title: "Teaching"
 -- design and deliver seminars. \
 -- grade assignments and exams.
 
-## Teaching Assistant
+<!--## Teaching Assistant -->
 [**Decision and Risk Analysis (MSIN0159)**](https://www.ucl.ac.uk/module-catalogue/modules/decision-and-risk-analysis-MSIN0159){:target="_blank" rel="noopener noreferrer"}, MSc Management program, UCL School of Management (2023 - present). \
 -- teach workshops. \
 -- host office hours.
