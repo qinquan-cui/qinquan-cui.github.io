@@ -16,6 +16,9 @@ author_profile: true
 
 
 ## Academic Services
+* **The Higher Education Academy Fellowship Assessor:**
+UCL (2026 - present)
+
 * **Editorial Review Board:**
 IEEE Transactions on Engineering Management (2024 - present)
 
