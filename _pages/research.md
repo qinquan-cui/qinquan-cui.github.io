@@ -22,7 +22,7 @@ Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;The Role of Inform
 -- Listed in SSRN's top ten downloads. \
 <!-- -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \ -->
 <!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
--- MSOM Conference, Minneapolis, Minnesota, 07/2024. 
+-- MSOM Conference, Boston, MA, USA, 07/2026. 
 
 Song, Lina, Qinquan Cui, and Fangwei Dong. 2026. &quot;Predicting Hospital Mergers Using Machine Learning Algorithms.&quot;
 
