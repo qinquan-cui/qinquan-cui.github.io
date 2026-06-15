@@ -16,12 +16,7 @@ Cui, Qinquan. 2019. &quot;Quality Investment, and the Contract Manufacturer's En
 -- Feature Article at The Tokyo Foundation For Policy Research.
 
 ## Working Papers
-Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2025. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4660532){:target="_blank" rel="noopener noreferrer"} 
-<i>in major revision.</i> \
--- Awarded The 2023 Sylff Research Grant. \
--- Listed in SSRN's top ten downloads. \
-<!-- -- INFORMS Annual Conference, Seattle, Washington, 10/2024. \ -->
-<!-- -- MSOM Conference, The University of Minnesota, Minneapolis, Minnesota, 07/2024. \ -->
+Cui, Qinquan, Kenan Arifoğlu, and Dongyuan Zhan. 2026. &quot;The Role of Information Asymmetry Between Brand-Name and Generic Firms in Pharmaceutical Markets: Limit Pricing and the Generic Competition Paradox.&quot; \
 -- MSOM Conference, Boston, MA, USA, 07/2026. 
 
 Song, Lina, Qinquan Cui, and Fangwei Dong. 2026. &quot;Predicting Hospital Mergers Using Machine Learning Algorithms.&quot;
